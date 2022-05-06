@@ -1,2 +1,2 @@
 #!/bin/bash
-This project is the working directory for this project.
+This repo is the working directory for this project.
